@@ -16,3 +16,9 @@
 
 “You may say that!” said Poole.
 ## b3
+
+### Dracula
+
+As I came along the corridor I saw Mr. Morris looking out of a window. He turned as he heard my footsteps. "How is Art?" he said. Then noticing my red eyes, he went on: "Ah, I see you have been comforting him. Poor old fellow! he needs it. No one but a woman can help a man when he is in trouble of the heart; and he had no one to comfort him."
+
+He bore his own trouble so bravely that my heart bled for him. I saw the manuscript in his hand, and I knew that when he read it he would realise how much I knew; so I said to him:--
