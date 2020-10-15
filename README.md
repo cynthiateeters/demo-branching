@@ -10,6 +10,8 @@
 
 ## b2
 
+### Jekyll & Hyde
+
 “And surely none stranger than itself,” echoed the lawyer in the same tones. “For what did Jekyll”--he caught himself up at the word with a start, and then conquering the weakness--“what could Jekyll want with it?” he said.
 
 “You may say that!” said Poole.
